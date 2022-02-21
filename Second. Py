@@ -1,0 +1,6 @@
+N=int(input('enter number: ')) 
+K=n
+For I in range(0, k+1):
+For j in range(k-1, 0,-1): 
+Print ("*", end='c) 
+Print() 
